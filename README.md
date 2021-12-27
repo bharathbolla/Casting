@@ -1,1 +1,1 @@
-# Efficient_Deep_Learning-Casting_Products
+# Inverted_Architecture_Efficient_Neural_Networks-Casting_Products
