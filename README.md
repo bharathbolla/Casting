@@ -4,7 +4,7 @@
 
 #### Authors - Mohan Kingom, Bharath Kumar Bolla, Sabeesh E
 
-<img src="https://user-images.githubusercontent.com/48343095/147536928-e3a0a0c9-fc56-42bc-b123-32595d3f8c32.png" width="500"  height = "750"/>
+<img src="https://user-images.githubusercontent.com/48343095/147536928-e3a0a0c9-fc56-42bc-b123-32595d3f8c32.png" width="500"  height = "700"/>
 
 
 <h2> Scope of the Paper </h2>
