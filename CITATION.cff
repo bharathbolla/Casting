@@ -1,34 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this article, please cite it as below."
-authors:
-  - family-names: Mohan 
-    given-names: Kingom
-    orcid: 0000-0001-6454-7222
-  - family-names: Bharath Kumar 
-    given-names: Bolla
-    orcid: 0000-0002-4726-042X
-  - family-names: Sabeesh
-    given-names: Ethiraj
-    orcid: 0000-0001-6454-7222
-
-title: "EFFICIENT DEEP LEARNING METHODS FOR IDENTIFICATION OF DEFECTIVE CASTING PRODUCTS"
-version: 1.0.0
-doi: TO BE PUBLISHED
-date-released: 2021-12-28 
-
-
-cff-version: 1.2.0
-message: "If you use this article, please cite it as below."
-authors:
-  - family-names: Mohan 
-    given-names: Kingom
-    orcid: 0000-0001-6454-7222
-  - family-names: Bharath Kumar 
-    given-names: Bolla
-    orcid: 0000-0002-4726-042X
-  - family-names: Sabeesh
-    given-names: Ethiraj
-    orcid: 0000-0001-6454-7222
+message: "If you use this conference paper, please cite it as below."
 title: "EFFICIENT DEEP LEARNING METHODS FOR IDENTIFICATION OF DEFECTIVE CASTING PRODUCTS"
 version: 1.0.0
 doi: TO BE PUBLISHED
@@ -51,7 +22,7 @@ preferred-citation:
   month: 12
   start: 1 # First page number
   end: 6 # Last page number
-  title: "My awesome research software"
+  title: "EFFICIENT DEEP LEARNING METHODS FOR IDENTIFICATION OF DEFECTIVE CASTING PRODUCTS"
   issue: 1
   volume: 1
   year: 2021
