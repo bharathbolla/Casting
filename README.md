@@ -2,6 +2,8 @@
 
 ### This paper was presented in ICCR-2021 [ICCR 2021  - Efficient Deep Learning.pdf](https://github.com/sabeesh90/Channel_Pruning-Casting_Detetction/files/7783093/ICCR.2021.-.Efficient.Deep.Learning.pdf)
 
+#### Authors - Mohan Kingom, Bharath Kumar Bolla, Sabeesh E
+
 <img src="https://user-images.githubusercontent.com/48343095/147536928-e3a0a0c9-fc56-42bc-b123-32595d3f8c32.png" width="500"  height = "750"/>
 
 
