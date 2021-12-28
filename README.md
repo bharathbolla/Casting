@@ -2,6 +2,9 @@
 
 ### This paper was presented in ICCR-2021 [ICCR 2021  - Efficient Deep Learning.pdf](https://github.com/sabeesh90/Channel_Pruning-Casting_Detetction/files/7783093/ICCR.2021.-.Efficient.Deep.Learning.pdf)
 
+<img src="https://user-images.githubusercontent.com/48343095/147536928-e3a0a0c9-fc56-42bc-b123-32595d3f8c32.png" width="500"  height = "750"/>
+
+
 <h2> Scope of the Paper </h2>
 Identifying defective casting products using Deep learning needs to be faster and more robust as this is critical in a factory setting where 1000s of products are passed through the conveyor belt. Here we have revisited techniques that shall aid speeding a deep learning model and make them lighter for deployment on low computing devices. Custom and Transfer learning models have been used and evaluated using accuracy, F1 scores and latency of prediction on a CPU. <br>
 
