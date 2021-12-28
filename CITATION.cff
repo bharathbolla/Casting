@@ -6,7 +6,7 @@ authors:
     orcid: 0000-0001-6454-7222
   - family-names: Bharath Kumar 
     given-names: Bolla
-    orcid: 0000-0001-6454-7222
+    orcid: 0000-0002-4726-042X
   - family-names: Sabeesh
     given-names: Ethiraj
     orcid: 0000-0001-6454-7222
@@ -15,3 +15,43 @@ title: "EFFICIENT DEEP LEARNING METHODS FOR IDENTIFICATION OF DEFECTIVE CASTING 
 version: 1.0.0
 doi: TO BE PUBLISHED
 date-released: 2021-12-28 
+
+
+cff-version: 1.2.0
+message: "If you use this article, please cite it as below."
+authors:
+  - family-names: Mohan 
+    given-names: Kingom
+    orcid: 0000-0001-6454-7222
+  - family-names: Bharath Kumar 
+    given-names: Bolla
+    orcid: 0000-0002-4726-042X
+  - family-names: Sabeesh
+    given-names: Ethiraj
+    orcid: 0000-0001-6454-7222
+title: "EFFICIENT DEEP LEARNING METHODS FOR IDENTIFICATION OF DEFECTIVE CASTING PRODUCTS"
+version: 1.0.0
+doi: TO BE PUBLISHED
+date-released: 2021-12-28 
+url: "https://github.com/github/linguist"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: Mohan 
+    given-names: Kingom
+    orcid: 0000-0001-6454-7222
+  - family-names: Bharath Kumar 
+    given-names: Bolla
+    orcid: 0000-0002-4726-042X
+  - family-names: Sabeesh
+    given-names: Ethiraj
+    orcid: 0000-0001-6454-7222
+  doi: "10.0000/00000"
+  journal: "To be published"
+  month: 12
+  start: 1 # First page number
+  end: 6 # Last page number
+  title: "My awesome research software"
+  issue: 1
+  volume: 1
+  year: 2021
