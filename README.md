@@ -49,12 +49,25 @@ Model Size| F1 scores
 ![image](https://user-images.githubusercontent.com/48343095/147535703-143768c9-dce0-4aa3-a249-a420a99826a9.png) | ![image](https://user-images.githubusercontent.com/48343095/147535711-88fb2e9e-2880-4d9f-a764-016fcc336685.png)
 
 
-<h2> Effect of Augmentation </h2>
+<h2> The Augmentation Paradox </h2>
 Also it is seen that , augmentation plays a deterious effect both on the normal and the augmented test dataset in terms of F1 scores. This can be attributed to the fact that, as in our case "specificty is more important", any alterations in the input image will result in mis-classifications as a "NORMAL PIECE WOULD APPEAR DEFECTIVE DUE TO THE EFFECT OF AUGMENTATIONS AND WILL ULTIMATELY RESULT IN THE MODEL MISCLASSIFIYING IT AS DEFECTIVE".  
 
-Effect of Augmentations|
-:-------------------------:|
-![image](https://user-images.githubusercontent.com/48343095/147536513-cd9541d2-82bb-4630-a005-af44129748f0.png)
+
+
+Effect of Augmentations| Augmentation paradox
+:-------------------------:|:-----------------------:
+![image](https://user-images.githubusercontent.com/48343095/147536513-cd9541d2-82bb-4630-a005-af44129748f0.png) | ![WhatsApp Image 2021-12-28 at 1 22 27 PM](https://user-images.githubusercontent.com/48343095/147591928-b2d02107-b9ab-4ad8-a6ab-9a56d8bd40f9.jpeg)
+
+Even if we re using the augmentations the points to be taken care of is <br> 
+1) we should know how much to augment <br>
+2) and this has to be decided based on the EDA of the dataset <br>
+
+If the difference between the 1 and 0 is huge Then the augmentation has a positive effect, as seen in case 1. <br>
+If the difference between the 1and 0 is minimal as In the case 2 then augmenting will randomize the model and decrease accuracy as in our paper. <br> 
+
+A proper EDA of the dataset is hence required to analyse the difference in pixels between the normal and abnormal and see "which" and more importantly "how much" Also which class dominates matter.<br>
+As in the second case if 0 class dominates. Then model predicts 0 as 0 and 1 too as 0 <br>
+If the class 1 dominates then the model predicts 1 as 1 and 0 also as 1 <br>
 
 
 
