@@ -3,15 +3,15 @@ message: "If you use this article, please cite it as below."
 authors:
   - family-names: Mohan 
     given-names: Kingom
-    orcid: https://orcid.org/0000-0003-4925-7248
+    orcid: -
   - family-names: Bharath Kumar 
     given-names: Bolla
-    orcid: https://orcid.org/0000-0003-4925-7248
+    orcid: -
   - family-names: Sabeesh
     given-names: Ethiraj
-    orcid: https://orcid.org/0000-0003-4925-7248
+    orcid: 0000-0001-6454-7222
 
-title: "My Research Software"
-version: 2.0.4
-doi: 10.5281/zenodo.1234
-date-released: 2021-08-11
+title: "EFFICIENT DEEP LEARNING METHODS FOR IDENTIFICATION OF DEFECTIVE CASTING PRODUCTS"
+version: 1.0.0
+doi: TO BE PUBLISHED
+date-released: 2021-08-11 (TO BE PUBLISHED)
