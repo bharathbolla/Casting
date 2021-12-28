@@ -3,8 +3,10 @@ message: "If you use this article, please cite it as below."
 authors:
   - family-names: Mohan 
     given-names: Kingom
+    orcid: 0000-0001-6454-7222
   - family-names: Bharath Kumar 
     given-names: Bolla
+    orcid: 0000-0001-6454-7222
   - family-names: Sabeesh
     given-names: Ethiraj
     orcid: 0000-0001-6454-7222
@@ -12,4 +14,4 @@ authors:
 title: "EFFICIENT DEEP LEARNING METHODS FOR IDENTIFICATION OF DEFECTIVE CASTING PRODUCTS"
 version: 1.0.0
 doi: TO BE PUBLISHED
-date-released: 2021-08-11 (TO BE PUBLISHED)
+date-released: 2021-12-28 
