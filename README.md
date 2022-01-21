@@ -1,6 +1,7 @@
 # CHANNEL PRUNING USING INVERTED ARCHITECTURE
 
 ### This paper was presented in ICCR-2021 [ICCR 2021  - Efficient Deep Learning.pdf](https://github.com/sabeesh90/Channel_Pruning-Casting_Detetction/files/7783093/ICCR.2021.-.Efficient.Deep.Learning.pdf)
+[ICCR_Paper27_Final.pptx](https://github.com/sabeesh90/Channel_Pruning-Augmentation_paradox-Casting_Detetction/files/7914976/ICCR_Paper27_Final.pptx)
 
 #### Authors - Mohan Kingom, Bharath Kumar Bolla, Sabeesh E
 
