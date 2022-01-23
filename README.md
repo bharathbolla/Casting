@@ -1,3 +1,4 @@
+# Casting Product Defect Detection
 # CHANNEL PRUNING USING INVERTED ARCHITECTURE
 
 ### This paper was presented in ICCR-2021 [ICCR 2021  - Efficient Deep Learning.pdf](https://github.com/sabeesh90/Channel_Pruning-Casting_Detetction/files/7783093/ICCR.2021.-.Efficient.Deep.Learning.pdf)
